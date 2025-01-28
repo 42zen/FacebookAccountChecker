@@ -3,11 +3,6 @@ from sys import argv
 from fake_useragent import UserAgent
 
 
-# you don't need an account to get theses ;)
-FACEBOOK_DATR = '5ZuYZ9ZRhPEfPbsHNse1gyHa'
-FACEBOOK_LSD = 'AVqsrO7Y5Fc'
-
-
 class FacebookChecker:
 
     # create the facebook checker object
